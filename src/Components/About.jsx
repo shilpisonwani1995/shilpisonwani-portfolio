@@ -7,7 +7,7 @@ const About = () => {
             <div className='pb-8 pt-40'> 
                 <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
             </div>
-            <p className='text-xl mt-20 mb-20'>
+            <p className='text-xl mt-20'>
             Dedicated and enthusiastic front-end developer with a passion for creating visually appealing and user-friendly web experiences. Seeking an opportunity to leverage my technical skills in HTML, CSS, JavaScript and React. Eager to learn and collaborate in a dynamic team environment while continuously expanding my knowledge of modern front- end technologies and design principles.
             </p>
             {/* <br />
